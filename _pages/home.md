@@ -11,13 +11,14 @@ toc_label: "About the workshop"
 toc_icon: "book"
 ---
 
-Cognitive and/or psychological theories often start as verbal descriptions of observed regularities in human behavior and some intuitive ideas about their causal origins. Such informal verbal theories are a good place to start explanations of cognition, but are also limited. For example, it is difficult to test if an informal theory is internally consistent, if the theory explains observed phenomena, and if the processes assumed by the theory are computationally and physically realizable. To make verbal theories more precise, scientists engage in theoretical modeling.
+Artificial intelligence is becoming deeply integrated into society. Recent advancements, such as ChatGPT, promise exciting new opportunities, yet they also raise pressing concerns about sustainability. Issues like widening inequality, perpetuation of stereotypes, and negative effects on labor markets and the environment have sparked important debates. Join us in this Summer School course to critically explore the impact of AI on sustainability. 
+ 
+Recent AI tools like ChatGPT are unlocking new possibilities, but they also bring growing concerns about sustainability, including rising inequality, stereotyping, and negative impacts on labor markets and the environment. While many are familiar with the environmental costs of fossil fuels or the ethical dilemmas of child labor, there is little widespread understanding of how AI might affect sustainability. This lack of awareness poses significant challenges, as illustrated by the following case: 
+The adoption of generative AI in organizations is expanding rapidly, whether for customer service, content creation, or visual campaign development. However, this increased usage also demands higher energy and water consumption to power these technologies. Additionally, questions arise about copyright violations when distributing content, as well as the reinforcement of harmful stereotypes in generated texts and images. How do these challenges align with an organization’s sustainability goals? And how can organizations navigate decisions when sustainability objectives conflict? 
+ 
+This Summer School is designed to empower (future) policymakers and AI users with the knowledge needed to make informed decisions about integrating AI into their sustainability strategies. Our goal is to foster Critical AI Literacy: the ability to understand the societal, ecological, and economic costs and limitations of AI, enabling thoughtful, sustainability-focused decision-making in organizational contexts. 
 
-A theoretical model describes, in a precise (formal) language, how we think that (a part of) cognition or behavior may work. In this workshop, you will learn to build such formal models. Afterwards, you can use the acquired formal modeling skills to develop your own theoretical models in your domain of interest in cognitive science or psychology.
-
-The Theoretical Modeling Workshop is open to interested master's students and PhD candidates. Check out the [full schedule](#schedule) below. Please note that all times for the contact sessions listed below are [CEST](https://en.wikipedia.org/wiki/Central_European_Summer_Time).
-
-The workshop will take place between September 11 and October 30. Physical presence in Nijmegen is not required in order to participate, as all of the contact sessions will be held online.
+Check out the [full schedule](#schedule) below. 
 
 ## Opening lecture
 
