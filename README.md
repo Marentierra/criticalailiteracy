@@ -1,3 +1,3 @@
-# criticalailiteracy
+# Theoretical Modeling Workshop Website
 
-hello world
+Made using Jekyll and the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
