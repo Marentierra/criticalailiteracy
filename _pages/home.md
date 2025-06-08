@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Theoretical Modeling Workshop"
+title: "Summer School Critical AI Literacy"
 author_profile: false
 sidebar:
   - image: "/assets/images/tm-book.png"
