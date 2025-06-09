@@ -47,13 +47,14 @@ Week | Date and time | Activity type | Activity
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Natalia.webp" alt="Natalia">
 </figure>
 
-**Natalia Scharfenberg** is a PhD candidate working on meta-theory in the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group, and a junior lecturer at the Cognitive Science and AI department at Radboud University. She coordinates this workshop.
+**Dr. Marcela Suarez** Lecturer in Critical Intersectional Perspectives on AI 
+School of AI at Radboud University. 
 
 <figure style="width: 80px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Mark.webp" alt="Mark">
 </figure>
 
-**Mark Blokpoel** is a computer scientist and computational cognitive scientist. He is an assistant professor at the Cognitive Science and AI department and a senior researcher in the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group. He coordinates the Radboud-Aarhus Computational Cognitive Science collaboration.
+**Prof. Johan Kwisthout** Professor of Probabilistic Graphical Models at the Department of Human-centred Intelligent Systems
 
 <figure style="width: 80px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Iris.webp" alt="Iris">
@@ -65,13 +66,9 @@ Week | Date and time | Activity type | Activity
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Josh.jpg" alt="Joshua">
 </figure>
 
-**Joshua Skewes** is an associate professor in Cognitive Science. He is Head of [Department for Linguistics, Cognitive Science, and Semiotics](https://cc.au.dk/en/about-the-school/departments/linguistics-cognitive-science-and-semiotics), and Head of Department of Culture, Cognition, and Computation at Aarhus University, Denmark.
+**
 
-<figure style="width: 80px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Moulshree.jpg" alt="Moulshree">
-</figure>
-
-**Moulshree Rana** is a PhD candidate at the Donders Center for Cognition with the [Cognition of Multilingualism lab](https://lemhoferbilingualismlab.wordpress.com). Her background is in cognitive science and psychology and her research focuses on how people learn the grammar of a new language. 
+**Dr. Barbara Müller ** is Associate Professor of Communication at the Behavioural Science Institute
 
 <br>
 
@@ -80,20 +77,9 @@ Week | Date and time | Activity type | Activity
 The workshop materials are released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. The workshop website is made with [Jekyll](https://jekyllrb.com) using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes) theme.  
 The artwork by Danielle Navarro is released under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license, and used with permission.
 
-## Acknowledgements
-
- The workshop is part of an educational collaboration between the [AI programme](https://www.ru.nl/en/education/bachelors/artificial-intelligence) at [Radboud University](https://www.ru.nl), and the [Cognitive Science programme](https://cc.au.dk/en/about-the-school/subjects/cognitive-science) at Aarhus University, Denmark, supported by funding from [It-vest](https://www.it-vest.dk).
-This work was in part supported by a [Distinguished NIAS Lorentz Fellowship](https://nias.knaw.nl/fellowships/distinguished-lorentz-fellowship/) awarded to [Iris van Rooij](https://nias.knaw.nl/fellow/rooij-iris-van).
-We thank [Katarzyna Gugnowska](https://www.cbs.mpg.de/person/gugnowska/1843226) and [Alexander Enge](https://www.cbs.mpg.de/person/enge/1843226) who organised the [Tools for Theory workshop in 2021](https://www.cbs.mpg.de/en/tools-for-theory).
-
 ## Contact
 
-For questions about the workshop please get in touch with [Natalia](mailto:natalia.scharfenberg@donders.ru.nl).
+For questions about the summer school please get in touch with [Marcela Suarez](mailto:marcela.suarezestrada@ru.nl).
 
 <br>
 
-|---|:----:|---| :-----:|-----|
-|| [![](/workshop/assets/images/ccs.webp)](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) | | [![](/workshop/assets/images/Aarhus.png)](https://international.au.dk) ||
-|| [![](/workshop/assets/images/ru_logo.svg)](https://www.ru.nl) | |  [![](/workshop/assets/images/donders_logo.svg)](https://www.ru.nl/en/donders-institute) ||
-||[![](/workshop/assets/images/logo-NIAS_rood.png)](https://nias.knaw.nl) | | [![](/workshop/assets/images/lorentz.jpg)](https://www.lorentzcenter.nl) ||
-|| [![](/workshop/assets/images/it-vest.jpg)](https://www.it-vest.dk)
