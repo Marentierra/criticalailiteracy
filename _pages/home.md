@@ -26,9 +26,9 @@ Check out the [full schedule](#schedule) below.
 
 ## Schedule
 
-**Course planning and reading materials 
+**Course planning and reading materials** 
  
-**Monday: 23 June 
+**Monday: 23 June** 
  
 10:00 to 11:00 Official opening  
  
@@ -40,6 +40,100 @@ Introduction to the main concepts (AI, sustainability, critical AI literacies)
 Organization, code of conduct, expectations 
  
 15:30 to 17:00 Projects (instructions) 
+
+
+
+**Tuesday: 24 June** 
+ 
+9:00 to 10:30 Session 1 
+Understanding the basics of AI  
+ 
+11:00 to 12:00 Session 2 
+Resisting AI hype: Cognitive Science and AI 
+ 
+Reading and video material (you can choose if you prefer reading or prefer watching the videos): 
+ 
+Bender, E. M. (2024). Resisting Dehumanization in the Age of “AI”. Current Directions in Psychological Science, 33(2), 114-120. 
+Paper: https://journals.sagepub.com/doi/10.1177/09637214231217286 
+Video: https://www.youtube.com/watch?v=wuU-5rGPbyg  
+ 
+van Rooij, I., Guest, et al. (2024). Reclaiming AI as a theoretical tool for cognitive science. Computational Brain & Behavior, 7, 616–636. 
+Paper: https://doi.org/10.1007/s42113-024-00217-5 
+Video: https://www.youtube.com/watch?v=WrwNPVTjJpo 
+ 
+ 
+13:30 15:00 Session 3 
+What is sustainable AI? (AI for sustainability and the sustainability of AI) 
+ 
+ 
+Reading material: 
+ 
+Van Wynsberghe, A. (2021). Sustainable AI: AI for sustainability and the sustainability of AI. AI and Ethics, 1(3), 213–218. https://doi.org/10.1007/s43681-021-00043-6 
+ 
+ 
+15:30 to 17:00 Work in your project 
+
+
+
+**Wednesday: 25 June** 
+ 
+9:00 to 10:30 Session 1 
+AI and the global supply chain (social and environmental harms)  
+ 
+Reading material: 
+ 
+Valdivia, A. (2024). The supply chain capitalism of AI: a call to (re)think algorithmic harms and resistance through environmental lens. Information, Communication & Society, 1–17.  https://doi.org/10.1080/1369118X.2024.2420021 
+
+The cartography of generative AI 
+https://cartography-of-generative-ai.net/ 
+  
+Acid clouds projects 
+https://acidclouds.org/#evelyn_austin 
+ 
+ 
+11:00 to 12:00 Session 2 
+Can AI systems help human users to make sustainable decisions in a trustworthy and transparent manner? 
+  
+Reading material: 
+  
+Chater, N., & Loewenstein, G. (2023). The i-frame and the s-frame: How focusing on individual-level solutions has led behavioral public policy astray. Behavioral and Brain Sciences, 46, e147. https://doi.org/10.1017/S0140525X22002023 
+ 
+ 
+13:30 15:00 Vlog demo I 
+
+ 
+15:30 to 17:00 Vlog demo II 
+
+
+ 
+**Thursday: 26 June** 
+ 
+9:00 to 10:30 Session 1 
+Personal/professional values and align with AI use 
+Vlogs reflections 
+ 
+11:00 to 12:00  Session 2 
+Dis)align AI with SDG and  
+ 
+Reading material:  
+ 
+ 
+13:30 15:00  Activity 
+Drawing the conflict/alignment between personal values, profession, and AI use 
+ 
+15:30 to 17:00 Work in your project 
+
+ 
+ 
+**Friday: 27 June** 
+ 
+9:00 to 10:30 Work in your project 
+ 
+11:00 to 12:00 Project presentation 
+ 
+13:30 to 15:00 Closing reflection 
+ 
+15:30 to 17:00 Official Closing 
  
 
 
@@ -62,7 +156,9 @@ School of AI at Radboud University.
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Iris.webp" alt="Iris">
 </figure>
 
-**Iris van Rooij** is a psychologist and computational cognitive scientist. She is a professor and PI of the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group and Head of the Cognitive Science and AI department. She is also a guest professor at Aarhus University.
+**Dr. Barbara Müller** is Associate Professor of Communication at the Behavioural Science Institute
+
+**Dr. Iris van Rooij** is a psychologist and computational cognitive scientist. She is a professor and PI of the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group and Head of the Cognitive Science and AI department. 
 
 <figure style="width: 80px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Josh.jpg" alt="Joshua">
@@ -70,7 +166,6 @@ School of AI at Radboud University.
 
 **
 
-**Dr. Barbara Müller ** is Associate Professor of Communication at the Behavioural Science Institute
 
 <br>
 
