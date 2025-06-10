@@ -136,20 +136,20 @@ Drawing the conflict/alignment between personal values, profession, and AI use
 
 ## Organizers
 
-<figure style="width: 80px" class="align-right">
+<figure style="width: 80px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Suarez.jpg" alt="Marcela">
 </figure>
 
 **Dr. Marcela Suarez** Lecturer in Critical Intersectional Perspectives on AI 
 School of AI at Radboud University. 
 
-<figure style="width: 80px" class="align-left">
+<figure style="width: 80px" class="right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Kwisthout.png" alt="Johan">
 </figure>
 
 **Prof. Johan Kwisthout** Professor of Probabilistic Graphical Models at the Department of Human-centred Intelligent Systems
 
-<figure style="width: 80px" class="align-right">
+<figure style="width: 80px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Mueller.png" alt="Barbara">
 </figure>
 
