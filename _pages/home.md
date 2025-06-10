@@ -147,21 +147,25 @@ Drawing the conflict/alignment between personal values, profession, and AI use
 School of AI at Radboud University. 
 
 <figure style="width: 80px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Mark.webp" alt="Mark">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Suarez.jpg" alt="Marcela">
 </figure>
 
 **Prof. Johan Kwisthout** Professor of Probabilistic Graphical Models at the Department of Human-centred Intelligent Systems
 
 <figure style="width: 80px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Iris.webp" alt="Iris">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Kwisthout.png" alt="Johan">
 </figure>
 
 **Dr. Barbara Müller** is Associate Professor of Communication at the Behavioural Science Institute
 
+<figure style="width: 80px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Müller.png" alt="Barbara">
+</figure>
+
 **Dr. Iris van Rooij** is a psychologist and computational cognitive scientist. She is a professor and PI of the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group and Head of the Cognitive Science and AI department. 
 
 <figure style="width: 80px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Josh.jpg" alt="Joshua">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Iris.webp" alt="Iris">
 </figure>
 
 **
