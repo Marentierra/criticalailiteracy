@@ -20,9 +20,6 @@ This Summer School is designed to empower (future) policymakers and AI users wit
 
 Check out the [full schedule](#schedule) below. 
 
-## Opening lecture
-
-{% include video id="7WFaI4R88J8" provider="youtube" %}
 
 ## Schedule
 
@@ -171,8 +168,8 @@ School of AI at Radboud University.
 
 ## License
 
-The workshop materials are released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. The workshop website is made with [Jekyll](https://jekyllrb.com) using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes) theme.  
-The artwork by Danielle Navarro is released under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license, and used with permission.
+These materials are released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. The Summer School website is made with [Jekyll](https://jekyllrb.com) using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes) theme.  
+The picture was taken by Marcela Suarez is released under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license, and used with permission.
 
 ## Contact
 
