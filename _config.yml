@@ -13,12 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Theoretical Modeling Workshop
+title: Critical AI Literacy: Navigating Sustainability Challenges 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Cognitive and/or psychological theories often start as verbal descriptions of observed regularities in human behavior and some intuitive ideas about their causal origins. Such informal verbal theories are a good place to start explanations of cognition, but are also limited. For example, it is difficult to test if an informal theory is internally consistent, if the theory explains observed phenomena, and if the processes assumed by the theory are computationally and physically realizable. To make verbal theories more precise, scientists engage in theoretical modeling. A theoretical model describes, in a precise (formal) language, how we think that (a part of) cognition or behavior may work. In this workshop, you will learn to build such formal models. Afterwards, you can use the acquired formal modeling skills to develop your own theoretical models in your domain of interest in cognitive science or psychology.
 
-keywords: theory, cognitive science, computational cognitive science, cognitive psychology
+keywords: critical AI literacy, sustainability, AI
 
 url: https://marentierra.github.io # the base hostname & protocol for your site
 baseurl: /criticalailiteracy
