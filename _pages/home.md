@@ -153,7 +153,7 @@ School of AI at Radboud University.
 **Prof. Johan Kwisthout** Professor of Probabilistic Graphical Models at the Department of Human-centred Intelligent Systems
 
 <figure style="width: 80px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Müller.png" alt="Barbara">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Mueller.png" alt="Barbara">
 </figure>
 
 **Dr. Barbara Müller** is Associate Professor of Communication at the Behavioural Science Institute
