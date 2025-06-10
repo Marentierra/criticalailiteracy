@@ -4,8 +4,8 @@ title: "Summer School Critical AI Literacy"
 author_profile: false
 sidebar:
   - image: "/assets/images/Image-1.png"
-    image_alt: "Book cover"
-    text: "[Theoretical Modeling textbook](https://computationalcognitivescience.github.io/lovelace) by [Mark Blokpoel](https://markblokpoel.com) and [Iris van Rooij](https://irisvanrooijcogsci.com)"
+    image_alt: "Data center"
+    text: 
 toc: true
 toc_label: "About the workshop"
 toc_icon: "book"
