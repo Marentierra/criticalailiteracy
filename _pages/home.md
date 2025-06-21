@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Summer School Critical AI Literacy"
+title: "Summer School Critical AI Literacy: Navigating Sustainability Challenges" 
 author_profile: false
 sidebar:
   - image: "/assets/images/Image-1.png"
