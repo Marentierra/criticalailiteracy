@@ -111,9 +111,7 @@ Vlogs reflections
  
 11:00 to 12:00  Session 2 
 Dis)align AI with SDG and  
- 
-Reading material:  
- 
+   
  
 13:30 15:00  Activity 
 Drawing the conflict/alignment between personal values, profession, and AI use 
