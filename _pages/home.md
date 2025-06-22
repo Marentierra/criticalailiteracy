@@ -110,7 +110,7 @@ Personal/professional values and align with AI use
 Vlogs reflections 
  
 11:00 to 12:00  Session 2 
-Dis)align AI with SDG and  
+(Dis)align AI with SDG and  
    
  
 13:30 15:00  Activity 
